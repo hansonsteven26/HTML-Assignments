@@ -1,0 +1,26 @@
+/* Everything gets this */
+* {
+    color: purple;
+}
+
+/* Css id selector */
+#steven {
+    color: darkorange;
+    border: 20px solid goldenrod;
+}
+
+/* Css class selector */
+.headerStuff {
+    color: seagreen;
+    font-size: 30px;
+    font-style: oblique;
+}
+
+/* Css tag selector */
+
+td {
+    background-color: #F3E600;
+    outline-color: blue;
+    font-family: monospace;
+    font-weight: bold;
+}
